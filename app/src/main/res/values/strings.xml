@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Loompa\'s List</string>
+    <string name="filter">filter</string>
+    <string name="sortby">Sort by</string>
+</resources>
